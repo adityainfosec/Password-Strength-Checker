@@ -1,7 +1,0 @@
-
-import platform
-
-hostname = socket.gethostname()
-ip_address = socket.gethostbyname(hostname)
-
-print("Hostname:",
