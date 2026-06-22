@@ -1,18 +1,24 @@
-# Advanced Password Security Analyzer
+# 🔐 Advanced Password Security Analyzer
 
-## Description
-A Python-based tool that analyzes password strength using security best practices.
+A Python-based cybersecurity tool that analyzes password strength using security best practices and provides detailed feedback to improve password security.
 
-## Features
-- Password strength scoring (0–100)
-- Uppercase, lowercase, digit, special character checks
-- Common password detection
-- Security improvement suggestions
+This project is designed for cybersecurity learning, ethical hacking practice, and password security auditing.
 
-## Technologies Used
-- Python
-- Regex
+---
 
-## Author
-Aditya Gupta
+## 📌 Features
 
+- Password strength scoring system (0–100)
+- Checks uppercase, lowercase, digits, and special characters
+- Detects common weak passwords
+- Provides security improvement suggestions
+- Regex-based validation engine
+- Lightweight and fast execution
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/adityainfosec/Password-Strength-Checker.git
+cd Password-Strength-Checker
